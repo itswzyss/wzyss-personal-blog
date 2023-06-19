@@ -3,8 +3,7 @@ layout: post
 title:  "Hosting Red on Ubuntu using Docker"
 date:   2023-06-18 20:40:00
 categories:
-image:
-    path: https://camo.githubusercontent.com/aaf85e91d5f38462eb2128bf3c0c807d7129f745b88f808d4108364e6156e7f5/68747470733a2f2f696d6775722e636f6d2f705931575546582e706e67
+image: /assets/img/red.jpg
 ---
 
 ## Discover the Power of Red-DiscordBot: Your Self-Hosted Discord Companion
@@ -26,8 +25,9 @@ Here's why this Docker image stands out from the crowd:
 
 ## Let's Get Started
 Before you can host a Red bot, make sure you have the following:
+- A server to host the bot (any host with a decent internet connection will do, and if you're looking for a personal recommendation, I typically use <a href="https://aws.amazon.com/lightsail/" target="_blank">AWS Lightsail</a>).
+- A Discord Bot Token obtained by creating an Application on the <a href="https://discord.com/developers" target="_blank">Discord Developer Portal</a>.
 
-A server to host the bot (any host with a decent internet connection will do, and if you're looking for a personal recommendation, I typically use <a href="https://aws.amazon.com/lightsail/" target="_blank">AWS Lightsail</a>).
 > If you're a new Lightsail customer, you can get the $10 tier free for three months!
 {: .prompt-tip }
 

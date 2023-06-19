@@ -96,7 +96,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: itswzyss/bytes-n-paws1 # <gh-username>/<repo>
+    repo: itswzyss/bits-n-bytes # <gh-username>/<repo>
     repo_id: R_kgDOJxFZ2A
     category: Announcements
     category_id: DIC_kwDOJxFZ2M4CXTmi
