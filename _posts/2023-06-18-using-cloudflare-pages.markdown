@@ -2,7 +2,10 @@
 layout: post
 title:  "Introducing Cloudflare Pages"
 date:   2023-06-18 06:31:36 -0500
-categories: 
+categories:
+image:
+    path: https://i.gzn.jp/img/2020/12/22/cloudflare-pages/00.png
+    alt: Cloudflare Pages image
 ---
 
 ### Introducing [Cloudflare Pages](https://pages.cloudflare.com): An Effortless Website Deployment Platform
@@ -14,6 +17,8 @@ For instance, both my [blog](https://blog.itswzyss.com) and my [personal](https:
 
 ### Custom Domain: Enhancing Your Web Presence
 While it's not mandatory, I highly recommend using a custom domain with Cloudflare Pages. Relying solely on the project name might lead to a less desirable URL, such as `johns-blog-em4.pages.dev`. Integrating a custom domain is as easy as chaising your tail, especially if you're already leveraging Cloudflare's services. Otherwise, you can simply add a CNAME record to your domain, regardless of where it's hosted.
+> Did you know that Cloudflare also offers domain registration? See [Cloudflare Registrar](https://www.cloudflare.com/products/registrar/).
+{: .prompt-tip }
 
 ### Cost-Effective Website Hosting
 Surprisingly, for most users, Cloudflare Pages comes at no cost! The free tier, which includes both Cloudflare DNS and Pages, offers more than enough resources for typical needs.
