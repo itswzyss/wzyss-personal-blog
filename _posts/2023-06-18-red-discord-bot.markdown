@@ -9,7 +9,7 @@ image:
 ---
 
 ## Discover the Power of Red-DiscordBot: Your Self-Hosted Discord Companion
-Welcome to Red-DiscordBot, the ultimate modular Discord bot that adapts to your preferences. With Red, you have full control over the features and commands you enable or disable, allowing you to create a customized bot experience tailored to your needs. From administration and music to trivia and more, Red has got you covered!
+Welcome to Red-DiscordBot, the ultimate modular Discord bot that adapts to your preferences. With Red, you have full control over the features and commands you enable or disable, allowing you to create a customized bot experience tailored to your needs. From administration and music to trivia and more, Red has got your tail covered!
 
 If you want to delve deeper into the world of Red, make sure to visit the [Red GitHub](https://github.com/Cog-Creators/Red-DiscordBot) page for comprehensive information and resources.
 
@@ -19,7 +19,7 @@ Thanks to the incredible work by [PhasecoreX](https://github.com/PhasecoreX), yo
 Here's why this Docker image stands out from the crowd:
 
 - Runs securely without root privileges: Specify the user you want the bot to run as, ensuring maximum security and control.
-- Quick and effortless setup: With a single Docker command, your new bot will be ready to join your server, saving you time and effort.
+- Quick and effortless setup: With a single Docker command, your new bot will be ready to wag its tail and join your server, saving you time and effort.
 - Stay up-to-date effortlessly: Red-DiscordBot and the Docker image automatically update to the latest release, ensuring you always have the latest features.
 - Compatible with various server architectures: Whether you're using a standard x86-64 server or arm(64) devices like Raspberry Pi, Red-DiscordBot has you covered.
 - Stay informed with update notifications: The Docker image integrates with UpdateNotify, providing you with timely notifications for Red-DiscordBot and Docker image updates.
@@ -28,8 +28,8 @@ Here's why this Docker image stands out from the crowd:
 ## Let's Get Started
 Before you can host a Red bot, make sure you have the following:
 
-A server to host the bot (any host with a decent internet connection will do, and if you're looking for a personal recommendation, I use AWS Lightsail).
-> If you're a new Lightsail customer, you can get the $10 tier free for three months!
+A server to host the bot (any host with a decent internet connection will do, and if you're looking for a personal recommendation, this tech-savvy Rex uses AWS Lightsail).
+> If you're a new Lightsail customer, you can get the $10 tier free for three months! How fur-tastic!
 {: .prompt-tip }
 
 ## Obtaining a Bot Token
@@ -59,7 +59,7 @@ Variables:
 - `-v /local_folder_for_persistence:/data`: Folder to store persistent data for Red. You can also use a named volume.
 - `-e TOKEN=bot_token`: The prefix you'd like Red to use. You can specify multiple prefixes by adding more variables, such as PREFIX2, PREFIX3, up to PREFIX5.
 
-During the initial run, the container may take some time to start while all the Red dependencies are being installed. Subsequent starts should be much quicker.
+During the initial run, the container may take some time to start while all the Red dependencies are being installed. Subsequent starts should be much faster, like a lightning-fast tail wag.
 
 > Want to monitor the installation progress or view logs? Use `docker logs --follow [containerid]` to see real-time logs.
 {: .prompt-info }
@@ -80,7 +80,7 @@ docker rm [containerID]
 docker run -v /local_folder_for_persistence:/data -d --name Friendly_Name --restart unless-stopped phasecorex/red-discordbot
 ```
 
-> Replace Friendly_Name with the desired name for your bot or any address you prefer for the container.
+> Replace `Friendly_Name` with the desired name for your bot or any address you prefer for the container.
 {: .prompt-info }
 
 Now you can use the Friendly_Name with any Docker command instead of needing to obtain the container ID, making management easier.
