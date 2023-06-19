@@ -5,16 +5,15 @@ date:   2023-06-18 20:40:00
 categories:
 image:
     path: https://camo.githubusercontent.com/aaf85e91d5f38462eb2128bf3c0c807d7129f745b88f808d4108364e6156e7f5/68747470733a2f2f696d6775722e636f6d2f705931575546582e706e67
-    alt: Red Discord Bot header image
 ---
 
 ## Discover the Power of Red-DiscordBot: Your Self-Hosted Discord Companion
 Welcome to Red-DiscordBot, the ultimate modular Discord bot that adapts to your preferences. With Red, you have full control over the features and commands you enable or disable, allowing you to create a customized bot experience tailored to your needs. From administration and music to trivia and more, Red has got your tail covered!
 
-If you want to delve deeper into the world of Red, make sure to visit the [Red GitHub](https://github.com/Cog-Creators/Red-DiscordBot) page for comprehensive information and resources.
+If you want to delve deeper into the world of Red, make sure to visit the <a href="https://github.com/Cog-Creators/Red-DiscordBot" target="_blank">Red-DiscordBot</a> repo for comprehensive information and resources.
 
 ## Red on Docker? Absolutely!
-Thanks to the incredible work by [PhasecoreX](https://github.com/PhasecoreX), you can now harness the power of Red with ease using Docker. The [GitHub Repository](https://github.com/PhasecoreX/docker-red-discordbot) for the Red-DiscordBot Docker image provides everything you need to get started.
+Thanks to the incredible work by <a href="https://github.com/PhasecoreX" target="_blank">PhasecoreX</a>, you can now harness the power of Red with ease using Docker. The <a href="https://github.com/PhasecoreX/docker-red-discordbot" target="_blank">docker-red-discordbot</a> repository provides everything you need to get started.
 
 Here's why this Docker image stands out from the crowd:
 
@@ -28,14 +27,14 @@ Here's why this Docker image stands out from the crowd:
 ## Let's Get Started
 Before you can host a Red bot, make sure you have the following:
 
-A server to host the bot (any host with a decent internet connection will do, and if you're looking for a personal recommendation, this tech-savvy Rex uses AWS Lightsail).
-> If you're a new Lightsail customer, you can get the $10 tier free for three months! How fur-tastic!
+A server to host the bot (any host with a decent internet connection will do, and if you're looking for a personal recommendation, I typically use <a href="https://aws.amazon.com/lightsail/" target="_blank">AWS Lightsail</a>).
+> If you're a new Lightsail customer, you can get the $10 tier free for three months!
 {: .prompt-tip }
 
 ## Obtaining a Bot Token
 To get started, follow these simple steps to obtain your Discord Bot Token:
 
-1. Head over to the [Discord Developer Portal](https://discord.com/developers/applications).
+1. Head over to the <a href="https://discord.com/developers/applications" target="_blank">Discord Developer Portal</a>.
  - Click on New Application.
  - Give your app a name and accept the Developer Terms of Service and Developer Policy.
 2. Navigate to the Bot section.
@@ -57,12 +56,15 @@ docker run -v /local_folder_for_persistence:/data -e TOKEN=bot_token -e PREFIX=.
 Variables:
 
 - `-v /local_folder_for_persistence:/data`: Folder to store persistent data for Red. You can also use a named volume.
-- `-e TOKEN=bot_token`: The prefix you'd like Red to use. You can specify multiple prefixes by adding more variables, such as PREFIX2, PREFIX3, up to PREFIX5.
+- `-e TOKEN=bot_token`: The token of the bot that was retrieved earlier.
+- `-e PREFIX=.`: The prefix you'd like Red to use. By default, this is `.`. You can specify multiple prefixes by adding more variables, such as PREFIX2, PREFIX3, up to PREFIX5.
 
 During the initial run, the container may take some time to start while all the Red dependencies are being installed. Subsequent starts should be much faster, like a lightning-fast tail wag.
 
 > Want to monitor the installation progress or view logs? Use `docker logs --follow [containerid]` to see real-time logs.
 {: .prompt-info }
+
+More variables and what they do can be found on the <a href="https://github.com/PhasecoreX/docker-red-discordbot" target="_blank">GitHub Repo</a>.
 
 ## Docker Recommendations
 Once your Red bot is up and running, you might want to give the container a meaningful name and configure it to restart with the system. The previous command only started the container with a random name. Use docker ps to view a list of running containers and their names.
