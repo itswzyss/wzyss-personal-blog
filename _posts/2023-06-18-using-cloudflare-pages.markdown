@@ -2,10 +2,11 @@
 layout: post
 title:  "Introducing Cloudflare Pages"
 date:   2023-06-18 06:31:36 -0500
-categories:
+categories: [Blog]
 image:
     path: https://i.gzn.jp/img/2020/12/22/cloudflare-pages/00.png
     alt: Cloudflare Pages image
+tag: [hosting, web development, cloudflare]
 ---
 
 ### Introducing [Cloudflare Pages](https://pages.cloudflare.com): An Effortless Website Deployment Platform

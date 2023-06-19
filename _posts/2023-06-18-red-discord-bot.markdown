@@ -2,8 +2,9 @@
 layout: post
 title:  "Hosting Red on Ubuntu using Docker"
 date:   2023-06-18 20:40:00
-categories:
+categories: [Tutorials, Linux]
 image: /assets/img/red.jpg
+tags: [linux, ubuntu, hosting, discord, discord bot]
 ---
 
 ## Discover the Power of Red-DiscordBot: Your Self-Hosted Discord Companion
