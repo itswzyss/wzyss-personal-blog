@@ -6,4 +6,16 @@ order: 4
 
 <img src="/assets/img/profile.png" width="200" height="200">
 
-Welcome to my blog: Bytes 'n Paws! I'm a passionate tech-loving furry who thrives on the creative blend of front-end web development and the intricacies of backend systems. With a knack for server management, networking, and just enough dev ops knowledge to be dangerous, I'm here to share my adventures in the digital realm and explore the intersection of technology and furry fandom. Join me on this wild journey as we unleash the power of code and embrace our geeky side together.
+## Hi, I'm Wzyss!
+
+I'm a furry techie who loves sharing my experiences with technology. I run a this place that I call _Bits 'n Bytes_, where I write about everything from the latest gadgets to the latest software. I'm also a big fan of furry art and culture, and I'm always looking for new ways to combine my love of technology and my love of boops.
+
+I'm always up for a challenge, and I love learning new things. I'm also a bit of a nerd, and I can talk your ear off about anything from computer science to quantum mechanics. But most of all, I'm just a friendly guy who loves to connect with people and share my passion for technology.
+
+If you're interested in learning more about me, or if you just want to chat, feel free to check out my <a href="https://itswzyss.com" target="_blank">personal site</a> to drop me a line. I'm always happy to meet new people!
+
+## Other Social Links
+- [Discord Server](https://discord.gg/planetx)
+- [GitHub](https://github.com/itswzyss)
+- [Telegram](https://t.me/itswzyss)
+- [Twitter](https://twitter.com/itswzyss)
