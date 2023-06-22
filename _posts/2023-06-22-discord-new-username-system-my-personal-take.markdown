@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Discord's New Username System: My Personal Take"
-date:   2023-06-21 08:00:00 -0500
+date:   2023-06-22 08:00:00 -0500
 categories: [Blog]
 image:
     path: https://assets-global.website-files.com/5f9072399b2640f14d6a2bf4/645c294e1f5bcda693b9df11_usernames%20blog%20header-p-1600.png
