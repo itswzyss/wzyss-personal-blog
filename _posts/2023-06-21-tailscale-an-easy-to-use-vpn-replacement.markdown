@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tailscale: An Easy-to-Use Networking Tool That I've Been Loving"
-date:   2023-06-21 06:31:36 -0500
+date:   2023-06-21 06:31:36 -0800
 categories: [Blog]
 image:
     path: https://tailscale.com/files/images/home/tailscale-apps.png
