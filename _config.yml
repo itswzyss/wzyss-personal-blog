@@ -18,12 +18,12 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "Bits 'n Bytes" # the main title
+title: "Wzyss' Blog" # the main title
 
-tagline: "My take on all things tech." # it will display as the sub-title
+tagline: "Welcome to my blog. Here you'll find my take on a wide variety of topics." # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  "A furry's take on all things tech."
+  "Welcome to my blog. Here you'll find my take on a wide variety of topics."
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://blog.itswzyss.com"
@@ -86,10 +86,10 @@ avatar: "/assets/img/profile.png"
 toc: true
 
 comments:
-  active: giscus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: disqus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
-    shortname: bytes-n-paws # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: wzyss-blog # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>

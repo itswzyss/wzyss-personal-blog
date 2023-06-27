@@ -7,8 +7,8 @@ image: /assets/img/red.jpg
 tags: [linux, ubuntu, hosting, discord, discord bot]
 ---
 
-## Discover the Power of Red-DiscordBot: Your Self-Hosted Discord Companion
-Welcome to Red-DiscordBot, the ultimate modular Discord bot that adapts to your preferences. With Red, you have full control over the features and commands you enable or disable, allowing you to create a customized bot experience tailored to your needs. From administration and music to trivia and more, Red has got your tail covered!
+## Red-DiscordBot: The Only Bot You'll Probably Need
+This is Red-DiscordBot, the ultimate modular Discord bot that adapts to your preferences. With Red, you have full control over the features and commands you enable or disable, allowing you to create a customized bot experience tailored to your needs. From administration and music to trivia and more, Red has got your tail covered!
 
 If you want to delve deeper into the world of Red, make sure to visit the <a href="https://github.com/Cog-Creators/Red-DiscordBot" target="_blank">Red-DiscordBot</a> repo for comprehensive information and resources.
 
