@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "My Preferred SSH Client for Server Management"
+title:  "Token2Shell, My Preferred SSH Client for Server Management"
 date:   2023-06-26 08:00:00 -0800
-categories: [Windows, Software]
+categories: [Software, Windows]
 image: https://data.itswzyss.com/ShareX/2023/06/chrome_Bu096MQDGz.png
 tags: [linux, ubuntu, hosting, SSH]
 ---
@@ -11,7 +11,7 @@ As a frequent user of SSH, I used to constantly be on the lookout for a reliable
 
 ## The Story
 
-A long long time ago, I was on the hunt for a SSH client that didn't... suck. Ok, I'll backtrack a bit -- they don't all suck, but they feel like they're just missing something. Perhpas I just never fully understood the tools I was working with, but I never felt like I had everything in one place.
+A long long time ago, I was on the hunt for a SSH client that didn't... suck. Ok, I'll backtrack a bit -- they don't all suck, but they feel like they're just missing something. Perhaps I just never fully understood the tools I was working with, but I never felt like I had everything in one place.
 
 I've tried all sorts of clients, such as:
 
@@ -61,6 +61,6 @@ Compared to all the other SSH clients I've used in the past, nothing seems to ho
 
 For those that clicked the link to check out the official site, you'll notice that Token2Shell costs $14.99 at the time of writing. It should be noted that every time I went to re-install Token2Shell, I swore it was only $9.99. Regardless, it still costs money and many will not bother taking a second look.
 
-However, as someone who has used this piece of software for years I believe it's absolutely worth the purchase. My only concern is that it seems that all the project that were being worked on by the Devs of Token2Shell have all been halted. And by that I mean there's still landing pages for products stating they're getting ready for release in 2018...
+However, as someone who has used this piece of software for years I believe it's absolutely worth the purchase. My only concern is that it seems that all the projects that were being worked on by the Devs of Token2Shell have all been halted. And by that I mean there's still landing pages for products stating they're getting ready for release in 2018...
 
 That being said, I'll be using this SSH client until I no longer can. I've carried this app through Windows 10 and so far Windows 11 and it still works well. I'll be very sad when the day comes when I'm no longer able to use this client.
