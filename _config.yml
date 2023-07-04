@@ -20,10 +20,10 @@ timezone: America/Chicago
 
 title: "Wzyss' Blog" # the main title
 
-tagline: "Welcome to my blog. Here you'll find my take on a wide variety of topics." # it will display as the sub-title
+tagline: Welcome to my blog. Here you'll find my take on a wide variety of topics. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  "Welcome to my blog. Here you'll find my take on a wide variety of topics."
+  Welcome to my blog. Here you'll find my take on a wide variety of topics.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://blog.itswzyss.com"
