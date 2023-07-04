@@ -40,7 +40,7 @@ To get started, follow these simple steps to obtain your Discord Bot Token:
  - Give your app a name and accept the Developer Terms of Service and Developer Policy.
 2. Navigate to the Bot section.
  - If you're satisfied with your bot's name, leave the Username as is.
- - Under Token, click Reset Token—this is the only chance to obtain your token.
+ - Under Token, click Reset Token — this is the only chance to obtain your token.
  - Save the token as you won't be able to retrieve it later from this page.
  - Scroll down and ensure that Presence Intent, Server Members Intent, and Message Content Intent are all enabled.
 
